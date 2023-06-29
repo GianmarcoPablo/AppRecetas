@@ -1,0 +1,96 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "title": "Arroz con pollo",
+        "ingredients": ["arroz", "pollo", "verduras"],
+        "instructions": "Cocinar el arroz y el pollo por separado. Mezclar con las verduras y servir caliente.",
+        "category": "Comida peruana",
+        "rating": 4.5,
+        "comments": [
+          {
+            "user": "Juan",
+            "comment": "Muy rico, me encantó."
+          },
+          {
+            "user": "Maria",
+            "comment": "Fácil de hacer y delicioso."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Ceviche",
+        "ingredients": ["pescado", "limón", "cebolla"],
+        "instructions": "Cortar el pescado en trozos pequeños y mezclar con el limón y la cebolla. Dejar marinar por unos minutos y servir frío.",
+        "category": "Comida peruana",
+        "rating": 5,
+        "comments": [
+          {
+            "user": "Pedro",
+            "comment": "Excelente, muy fresco y sabroso."
+          },
+          {
+            "user": "Lucia",
+            "comment": "Me encanta el ceviche, esta receta es muy buena."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Tallarines rojos",
+        "ingredients": ["tallarines", "tomate", "cebolla"],
+        "instructions": "Cocinar los tallarines y mezclar con la salsa de tomate y cebolla. Servir caliente.",
+        "category": "Comida peruana",
+        "rating": 3.5,
+        "comments": [
+          {
+            "user": "Jose",
+            "comment": "Muy rico, me encantó."
+          },
+          {
+            "user": "Maria",
+            "comment": "Fácil de hacer y delicioso."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Tallarines verdes",
+        "ingredients": ["tallarines", "espinaca", "cebolla"],
+        "instructions": "Cocinar los tallarines y mezclar con la salsa de espinaca y cebolla. Servir caliente.",
+        "category": "Comida peruana",
+        "rating": 4,
+        "comments": [
+          {
+            "user": "Jose",
+            "comment": "Muy rico, me encantó."
+          },
+          {
+            "user": "Maria",
+            "comment": "Fácil de hacer y delicioso."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Tallarines al pesto",
+        "ingredients": ["tallarines", "albahaca", "cebolla"],
+        "instructions": "Cocinar los tallarines y mezclar con la salsa de albahaca y cebolla. Servir caliente.",
+        "category": "Comida peruana",
+        "rating": 4.5,
+        "comments": [
+          {
+            "user": "Jose",
+            "comment": "Muy rico, me encantó."
+          },
+          {
+            "user": "Maria",
+            "comment": "Fácil de hacer y delicioso."
+          }
+        ]
+      }
+  
+    ]
+  }
+  
